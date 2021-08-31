@@ -7,11 +7,12 @@ Me llamo **Fabian** y me encuentro promediando el primer año de la Tecnicatura 
 ## Sobre mi
 - Tengo 27 años.
 - Tengo un perro que se llama Kimbo.
-- Me gustan los juegos competitivos.
+- Intento programar-
+- Juegos que me interesan:
    - Cs Go.
    - Valorant.
    - League of Legends.
    - Lineage II
-- Intento programar-
+
 
    ![foto](unahur.png)
