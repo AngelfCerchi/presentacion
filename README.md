@@ -9,9 +9,8 @@ Me llamo **Fabian** y me encuentro promediando el primer año de la Tecnicatura 
 - Tengo un perro que se llama Kimbo.
 - Intento programar-
 - Juegos que me interesan:
-   - Cs Go.
-   - Valorant.
    - League of Legends.
+   - Valorant.
    - Lineage II
 
 
